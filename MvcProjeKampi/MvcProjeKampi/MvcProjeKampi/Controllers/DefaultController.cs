@@ -8,17 +8,20 @@ using System.Web.Mvc;
 
 namespace MvcProjeKampi.Controllers
 {
+    [AllowAnonymous]
     public class DefaultController : Controller
     {
+        ContentManager cm = new ContentManager(new EfContentDal());
         HeadingManager hm = new HeadingManager(new EfHeadingDal());
         public ActionResult Headings()//ctrl+k+d
         {
             var headinglist = hm.GetList();
             return View(headinglist);
         }
-        public ActionResult Index()
+        public PartialViewResult Index(int id=0)
         {
-            return View();
+            var contentlist = cm.GetListByHeadingID(id);
+            return PartialView(contentlist);
         }
     }
-}//82
+}

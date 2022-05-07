@@ -48,7 +48,7 @@
                         @foreach (var item in Model)
                         {
                         <li class="nav-item">
-                            <a href="/WriterPanel/MyHeading/" class="nav-link">
+                            <a href="/Default/Headings/@item.HeadingID" class="nav-link">
                                 <p>
                                     @item.HeadingName
                                 </p>
@@ -63,7 +63,7 @@
 
             <!-- Main content -->
             <div class="content">
-                @RenderBody()
+               @Html.Action("Index","Default")
                 <!-- /.container-fluid -->
             </div>
             <!-- /.content -->

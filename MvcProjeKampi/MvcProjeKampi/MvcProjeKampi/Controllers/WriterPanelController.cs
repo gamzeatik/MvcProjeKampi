@@ -75,5 +75,10 @@ namespace MvcProjeKampi.Controllers
             hm.HeadingUpdate(headingvalue);
             return RedirectToAction("MyHeading");//SQL identity 45
         }
+        public ActionResult AllHeading()
+        {
+            var headings = hm.GetList();
+            return View(headings);
+        }
     }
 }

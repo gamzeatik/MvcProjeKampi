@@ -4,10 +4,11 @@
     "\\MvcProjeKampi",
     "\\MvcProjeKampi\\MvcProjeKampi",
     "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi",
+    "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi\\Controllers",
     "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi\\Views",
     "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi\\Views\\Shared",
     "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi\\Views\\WriterPanel"
   ],
-  "SelectedNode": "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi\\Views\\Shared\\_WriterLayout.cshtml",
+  "SelectedNode": "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\DefaultController.cs",
   "PreviewInSolutionExplorer": false
 }
