@@ -35,6 +35,7 @@ namespace MvcProjeKampi.Controllers
                 return RedirectToAction("Index");
             }
         }
+
         [HttpGet]
         public ActionResult WriterLogin()
         {

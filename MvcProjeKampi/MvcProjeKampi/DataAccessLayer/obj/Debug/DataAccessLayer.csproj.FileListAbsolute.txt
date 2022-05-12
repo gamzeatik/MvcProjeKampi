@@ -76,3 +76,16 @@ C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccess
 C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Web.Helpers.dll
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Web.Helpers.xml
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Web.WebPages.Razor.xml
