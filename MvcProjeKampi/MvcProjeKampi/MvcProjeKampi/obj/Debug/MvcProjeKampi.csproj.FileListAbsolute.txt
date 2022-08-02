@@ -262,3 +262,7 @@ C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\MvcProjeKa
 C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.csproj.CopyComplete
 C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.dll
 C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.pdb
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\bin\PagedList.dll
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\bin\PagedList.Mvc.dll
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\bin\PagedList.xml
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\bin\PagedList.Mvc.xml

@@ -6,9 +6,11 @@
     "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi",
     "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi\\Controllers",
     "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi\\Views",
+    "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi\\Views\\ErrorPage",
+    "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi\\Views\\Login",
     "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi\\Views\\Shared",
     "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi\\Views\\WriterPanel"
   ],
-  "SelectedNode": "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi\\Web.config",
+  "SelectedNode": "\\MvcProjeKampi\\MvcProjeKampi\\MvcProjeKampi\\Views\\Login\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
