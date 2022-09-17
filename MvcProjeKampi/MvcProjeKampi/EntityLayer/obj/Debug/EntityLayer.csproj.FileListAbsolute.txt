@@ -57,3 +57,4 @@ C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\EntityLaye
 C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\System.Web.WebPages.xml
 C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\gamze\source\repos\MvcProjeKampi\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
